@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/amrhussainsayed" title="LinkedIn Profile"><img width="22" src="linedin.jpg"> LinkedIn</a></code>
-  <code><a href="https://codeforces.com/profile/Mastery07" title="Codeforces Profile"><img width="22" src="codeforces.jpg"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/amrhussainsayed" title="LinkedIn Profile"><img width="22" src="linkedin.jpg"> LinkedIn</a></code>
+  <code><a href="https://codeforces.com/profile/Mastery07" title="Codeforces Profile"><img width="22" src="codeforces.jpg"> Codeforces</a></code>
 </h5>
 <br>
 <p align="center">
