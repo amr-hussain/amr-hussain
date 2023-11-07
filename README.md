@@ -12,7 +12,17 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Amr Hussain, I'm a machine learning engineer from Egypt
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+
+<p align="center">
+ - Hi, I'm Amr Hussain, I'm a machine learning engineer from Egypt
   <br>
   <br>
   🎓 I have a bachelor of computer science from faculty of science sohag university (GPA 3.7)
