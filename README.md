@@ -15,7 +15,7 @@
 <br>
 
 
-- Hi, I'm Amr Hussain, I'm a machine learning engineer from Egypt
+- Hi, I'm Amr Hussain, I'm a machine learning enthusiast from Egypt, currently working as a teaching assistant at university
 - 🎓 I have a bachelor of computer science from faculty of science sohag university (GPA 3.7)
 - 💻 I love writing code, building and fine-tunring machine learning models that make the most benefit of the data around us
 - 🎖️ I’m currently serving in Compulsory Military Service (Conscription) - 2 Years form 11/2023
