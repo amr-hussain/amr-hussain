@@ -18,9 +18,8 @@
 - Hi, I'm Amr Hussain, I'm a machine learning enthusiast from Egypt, currently working as a teaching assistant at university
 - 🎓 I have a bachelor of computer science from faculty of science sohag university (GPA 3.7)
 - 💻 I love writing code, building and fine-tunring machine learning models that make the most benefit of the data around us
-- 🎖️ I’m currently serving in Compulsory Military Service (Conscription) - 2 Years form 11/2023
 - 💬 Ask me anything about machine learning an deep learning
-- 📫 Contact me: <a href="mailto: amrohossnei@gmail.com">amrohossnei@gmail.com</a>
+- 📫 Contact me: <a href="mailto: amrohossnei@gmail.com">amrohossnei@gmail.com</a> or <a href="mailto: amr.hussain.sayed@gmail.com">amrohossnei@gmail.com</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
