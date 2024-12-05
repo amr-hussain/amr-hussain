@@ -19,7 +19,7 @@
 - 🎓 I have a Bachelor of computer Science from the Faculty of Science at Sohag University (GPA 4.0)
 - 💻 I love writing code, building and fine-tuning machine learning models that make the most benefit of the data around us
 - 💬 Ask me anything about machine learning and deep learning
-- 📫 Contact me: <a href="mailto: amrohossnei@gmail.com">amrohossnei@gmail.com</a> or <a href="mailto: amr.hussain.sayed@gmail.com">amr.hussain.sayed@gmail.com</a>
+- 📫 Contact me: <a href="mailto: amr.hussain.sayed@gmail.com">amr.hussain.sayed@gmail.com</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
