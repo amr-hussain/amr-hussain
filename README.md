@@ -15,10 +15,10 @@
 <br>
 
 
-- Hi, I'm Amr Hussain, I'm a machine learning enthusiast from Egypt, currently working as a teaching assistant at university
-- 🎓 I have a bachelor of computer science from faculty of science sohag university (GPA 3.7)
-- 💻 I love writing code, building and fine-tunring machine learning models that make the most benefit of the data around us
-- 💬 Ask me anything about machine learning an deep learning
+- Hi, I'm Amr Hussain, I'm a machine learning enthusiast from Egypt, currently working as a teaching assistant at Sohag University
+- 🎓 I have a Bachelor of computer Science from the Faculty of Science at Sohag University (GPA 4.0)
+- 💻 I love writing code, building and fine-tuning machine learning models that make the most benefit of the data around us
+- 💬 Ask me anything about machine learning and deep learning
 - 📫 Contact me: <a href="mailto: amrohossnei@gmail.com">amrohossnei@gmail.com</a> or <a href="mailto: amr.hussain.sayed@gmail.com">amr.hussain.sayed@gmail.com</a>
 
 ### 🛠 &nbsp;Tech Stack
