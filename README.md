@@ -17,8 +17,7 @@
 
 - Hi, I'm Amr Hussain, I'm a machine learning enthusiast from Egypt, currently working as a teaching assistant at Sohag University
 - 🎓 I have a Bachelor of computer Science from the Faculty of Science at Sohag University (GPA 4.0)
-- 💻 I love writing code, building and fine-tuning machine learning models that make the most benefit of the data around us
-- 💬 Ask me anything about machine learning and deep learning
+- 💻 I build dynamic and static web pages. Also, I build and fine-tune machine learning models that make the most benefit of the data around us
 - 📫 Contact me: <a href="mailto: amr.hussain.sayed@gmail.com">amr.hussain.sayed@gmail.com</a>
 
 ### 🛠 &nbsp;Tech Stack
