@@ -15,19 +15,13 @@
 <br>
 
 
-- Hi, I'm Amr Hussain, I'm a machine learning enthusiast from Egypt, currently working as a teaching assistant at Sohag University
-- 🎓 I have a Bachelor of computer Science from the Faculty of Science at Sohag University (GPA 3.7)
-- 💻 I build dynamic and static web pages. Also, I build and fine-tune machine learning models that make the most benefit of the data around us
-- 📫 Contact me: <a href="mailto: amr.hussain.sayed@gmail.com">amr.hussain.sayed@gmail.com</a>
+- Hi, I'm Amr Hussain, I'm a machine learning enthusiast from Egypt, currently working as an AI researcher at E-JUST 
+- 🎓 I have a Bachelor of computer Science from the Faculty of Science at Sohag University
+- 💻 I build dynamic and static web pages. Also, I build AI systems Using pytorch that from ground up
+- 📫 Contact me:
+                - <a href="mailto: amr.hussain.sayed@gmail.com">amr.hussain.sayed@gmail.com</a>
+                - <a href="mailto: amr.hussain@ejust.edu.eg">amr.hussain@ejust.edu.eg</a>
 
-### 🛠 &nbsp;Tech Stack
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=sass)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=GraphQL)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
